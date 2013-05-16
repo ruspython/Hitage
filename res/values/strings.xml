@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">HiTAge.ru</string>
+    <string name="title_activity_main">Hitage</string>
+    <string name="about_author">Автор, как автор, ничего особенного</string>
+
+</resources>

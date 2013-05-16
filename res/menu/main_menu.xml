@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group>
+        <item 
+            android:title="Об авторе"
+            android:id="@+id/author"
+            android:orderInCategory="2" />
+
+        <item
+            android:title="Посетить HiTAge.ru"
+            android:id="@+id/visit"
+            android:orderInCategory="1"/>
+        <item
+            android:title="Выйти"
+            android:id="@+id/exit"
+            android:orderInCategory="3"/>
+        
+        
+</group>        
+
+</menu>
